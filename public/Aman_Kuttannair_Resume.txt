@@ -1,0 +1,30 @@
+Aman Kuttannair
+Software Engineer | AI-native product builder
+Bangalore, India
+
+SUMMARY
+2025 Computer Science Engineering graduate building end-to-end web applications with React, Node.js, Java, Python, and AI-assisted workflows. Interested in roles where product thinking, clean implementation, and fast learning matter.
+
+CORE SKILLS
+Frontend: React, responsive UI, component architecture
+Backend: Node.js, Express, REST APIs
+Databases: MongoDB, data modeling
+Languages: Java, Python, JavaScript
+AI: prompt engineering, AI-assisted development, RAG concepts
+Ways of working: debugging, documentation, product thinking, communication
+
+PROJECT SNAPSHOTS
+F1 Pitwall Analysis Tool
+Python and machine-learning project for tyre degradation prediction and strategy analysis.
+
+Travel Itinerary Application
+MERN stack planner for organizing multi-day trips, stops, and future AI-assisted recommendations.
+
+Portfolio Lab
+React/Vite portfolio system for scalable resume storytelling and project case studies.
+
+EXPERIENCE
+Open to entry-level software engineering roles in India, remote/hybrid work, and UAE-based teams.
+
+NOTE
+This is a placeholder downloadable resume file. Replace it with the final PDF resume when ready.
